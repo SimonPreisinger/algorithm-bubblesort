@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/algortihm-bubblesort.dir/src_and_header/main.cpp.o CMakeFiles/algortihm-bubblesort.dir/src_and_header/bubblesort.cpp.o  -o algortihm-bubblesort 
